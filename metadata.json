@@ -1,7 +1,0 @@
-{
-  "owner": "clowdhaus",
-  "name": "argo-cd-action",
-  "visibility": "public",
-  "description": "GitHub action for installing/executing Argo CD cli",
-  "block_publish": false
-}
