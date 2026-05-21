@@ -8,11 +8,11 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v3.2.0 | [`v3.2.0`](https://github.com/chainguard-actions/clowdhaus--argo-cd-action/tree/v3.2.0) | — |
-| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/clowdhaus--argo-cd-action/tree/v4.0.0) | — |
-| v4.1.0 | [`v4.1.0`](https://github.com/chainguard-actions/clowdhaus--argo-cd-action/tree/v4.1.0) | — |
-| v4.1.1 | [`v4.1.1`](https://github.com/chainguard-actions/clowdhaus--argo-cd-action/tree/v4.1.1) | — |
-| v4.2.0 | [`v4.2.0`](https://github.com/chainguard-actions/clowdhaus--argo-cd-action/tree/v4.2.0) | — |
+| v3.2.0 | [`v3.2.0`](https://github.com/chainguard-actions/clowdhaus-argo-cd-action/tree/v3.2.0) | — |
+| v4.0.0 | [`v4.0.0`](https://github.com/chainguard-actions/clowdhaus-argo-cd-action/tree/v4.0.0) | — |
+| v4.1.0 | [`v4.1.0`](https://github.com/chainguard-actions/clowdhaus-argo-cd-action/tree/v4.1.0) | — |
+| v4.1.1 | [`v4.1.1`](https://github.com/chainguard-actions/clowdhaus-argo-cd-action/tree/v4.1.1) | — |
+| v4.2.0 | [`v4.2.0`](https://github.com/chainguard-actions/clowdhaus-argo-cd-action/tree/v4.2.0) | — |
 
 ## Privacy
 
