@@ -4,8 +4,13 @@
   "version": "v4.1.1",
   "commit_sha": "b91f7344163cade7f971b2bc7b4436369846544e",
   "url": "https://github.com/clowdhaus/argo-cd-action",
-  "policy_sha": "d636be7e43ef829af6e853da6b3c7566db9f72fe",
+  "policy_sha": "374911c4be584df24e6da57af2d990570ef0f859",
   "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
   "test_agent_version": "2",
-  "harden_agent_version": "2"
+  "harden_agent_version": "2",
+  "dist_artifact": {
+    "gcs_uri": "gs://patch-actions-node-artifacts/dist-artifacts/clowdhaus/argo-cd-action/v4.1.1/sha256-b6f247d7b53e53e07aa2dc264c2c1ee55d1f7ecbea219226bb2b1ec566296293.tar.gz",
+    "sha256": "b6f247d7b53e53e07aa2dc264c2c1ee55d1f7ecbea219226bb2b1ec566296293",
+    "size_bytes": 184470
+  }
 }
